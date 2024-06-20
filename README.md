@@ -1,0 +1,1 @@
+Mod for Barotrauma(https://store.steampowered.com/app/602960/Barotrauma/). To setup and compile, follow: https://github.com/evilfactory/LuaCsForBarotrauma . Workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=3271524783 .
